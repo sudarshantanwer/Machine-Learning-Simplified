@@ -1,0 +1,17 @@
+ID,Name,Gender,Age,City,Salary,Joining_Date,Height,Fraud
+101,Alice,Male,25.0,Unknown,50000.0,2021-12-01,65,0.0
+102,Bob,Male,31.0,New York,60000.0,2012-06-05,66,1.0
+103,Charlie,Female,45.0,New York,70000.0,2020-07-15,70,0.0
+104,Dave,Female,39.0,Los Angeles,80000.0,2012-06-05,68,1.0
+105,Eve,Female,31.0,Los Angeles,90000.0,2012-06-05,72,0.0
+106,Frank,Male,30.0,San Francisco,30000.0,2017-01-25,61,0.0
+107,Grace,Male,29.0,San Francisco,120000.0,2022-02-20,69,1.0
+108,Henry,Female,27.0,San Francisco,30000.0,2023-03-10,68,0.0
+109,Isabel,Female,31.0,Boston,55000.0,2019-05-21,68,0.0
+110,Jason,Male,37.0,Boston,45000.0,2012-06-05,69,0.0
+111,Kate,Female,31.0,Chicago,76000.0,2017-09-30,63,0.0
+112,Leo,Female,99.0,Chicago,85000.0,2012-06-05,71,1.0
+113,Mia,Male,31.0,Houston,95000.0,2015-12-11,73,0.0
+114,Nathan,Male,34.0,Houston,30000.0,2014-03-22,61,0.0
+115,Olivia,Female,29.0,Houston,130000.0,2013-07-14,66,1.0
+116,Paul,Male,31.0,Houston,40000.0,2012-06-05,68,0.0
